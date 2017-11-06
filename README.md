@@ -9,7 +9,7 @@ Example :
 
 ```
   participant : bbrotosumpeno
-  the real key : lesson
+  key : lesson
   the key for this exercice will be bbrotosumpeno:lesson
 ```
 
