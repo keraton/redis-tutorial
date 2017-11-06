@@ -17,26 +17,26 @@ Example :
 ## String
 String is the most basic data structure, basically it is a key-value.
 
-Go to the [String](/String.md) exercice.
+Go to the [String](https://redis.io/commands/set) exercice.
 
 ## Hashes
 Key - value within Key - Value
 
-Go to the Hashes exercice.
+Go to the [Hashes](https://redis.io/commands/hset) exercice.
 
 ## List
 To store an array with a key
 
-Go to the List exercice
+Go to the [List](https://redis.io/commands/lpush) exercice
 
 ## Sets
 Like a list but with unique value
 
-Go to the Sets exercice
+Go to the [Sets](https://redis.io/commands/sadd) exercice
 
 ## Sorted Sets
 Like a set but with a score.
 
-Go to the Sorted Sets exercice
+Go to the [Sorted Set](https://redis.io/commands/zadd) exercice
 
   
