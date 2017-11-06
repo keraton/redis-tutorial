@@ -16,7 +16,7 @@ Example :
 
 ## String
 String is the most basic data structure, basically it is a key-value.
-Go to the String exercice.
+Go to the [String](/String.md) exercice.
 
 ## Hashes
 Key - value within Key - Value
