@@ -16,21 +16,27 @@ Example :
 
 ## String
 String is the most basic data structure, basically it is a key-value.
+
 Go to the [String](/String.md) exercice.
 
 ## Hashes
 Key - value within Key - Value
+
 Go to the Hashes exercice.
 
 ## List
 To store an array with a key
+
 Go to the List exercice
 
 ## Sets
 Like a list but with unique value
+
 Go to the Sets exercice
 
 ## Sorted Sets
 Like a set but with a score.
+
+Go to the Sorted Sets exercice
 
   
