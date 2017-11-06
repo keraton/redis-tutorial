@@ -13,7 +13,7 @@ Example :
   the key for this exercice will be bbrotosumpeno:lesson
 ```
 
-Use ':' as delimiter.
+Colon sign : is a convention when naming keys.
 
 ## String
 String is the most basic data structure, basically it is a key-value.
