@@ -2,7 +2,7 @@
 Redis Tutorial for beginners
 
 In this tutorial you are going to learn the five Redis Data Structure.
-You need to install a Redis Client such as Fastoredis for this exercice.
+You need to install a Redis Client such as [Fastoredis](http://fastoredis.com/) for this exercice.
 Since there is only one database to use for this exercice, all the key will be prefixed by the login of each participant.
 
 Example :
